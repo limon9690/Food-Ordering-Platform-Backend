@@ -2,6 +2,8 @@
 
 Backend API for **Food Ordering System**, a multi-provider food marketplace where users can browse meals, place orders, write reviews, and manage their delivery details, while providers and admins handle operations through role-based endpoints.
 
+Live API: `https://foodhub-backend-mu.vercel.app/`
+Demo Client: `https://foodhub-frontend-puce.vercel.app/`
 
 ## Overview
 
@@ -75,6 +77,7 @@ The database is designed around a marketplace flow:
 
 Base URL examples:
 
+- Production: `https://foodhub-backend-mu.vercel.app`
 - Local: `http://localhost:5000`
 - Auth base path: `/api/auth`
 
@@ -174,4 +177,3 @@ The API uses:
 - custom `AppError` instances for domain-specific failures
 - Prisma error mapping for common database failures
 - a centralized Express error handler for consistent JSON responses
-
