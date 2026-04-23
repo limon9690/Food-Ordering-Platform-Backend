@@ -2,8 +2,8 @@
 
 Backend API for **Food Ordering System**, a multi-provider food marketplace where users can browse meals, place orders, write reviews, and manage their delivery details, while providers and admins handle operations through role-based endpoints.
 
-Live API: `https://foodhub-backend-mu.vercel.app/`
-Demo Client: `https://foodhub-frontend-puce.vercel.app/`
+Live API: https://foodhub-backend-mu.vercel.app/
+Demo Client: https://foodhub-frontend-puce.vercel.app/
 
 ## Overview
 
